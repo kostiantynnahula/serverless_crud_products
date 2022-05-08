@@ -1,0 +1,19 @@
+{
+  "name": "typescript-http-api",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "@types/aws-sdk": "^2.7.0",
+    "@types/uuid": "^8.3.4",
+    "aws-sdk": "^2.1130.0",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.95",
+    "@types/node": "^17.0.31",
+    "serverless": "^3.1.1",
+    "serverless-plugin-typescript": "^2.1.1",
+    "typescript": "^4.5.5"
+  }
+}
